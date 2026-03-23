@@ -135,7 +135,7 @@ Example: `[Pune] Arshdeep Singh — Vibe Coding Submission`
 ---
 
 ## Resources
-
+Updated by Varshini
 Check out the [resources/](./resources) directory for curated lists of tools, courses, and platforms:
 - [Coding Tools](./resources/coding-tools.md)
 - [Useful AI Courses](./resources/courses.md)
